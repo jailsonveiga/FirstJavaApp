@@ -6,6 +6,7 @@ public class returnsomething {
         System.out.println(giveMeSomething("is running"));
         System.out.println(giveMeSomething("is better than nothing"));
     }
+
     public static String giveMeSomething(String a) {
         String someStr = "something";
 
