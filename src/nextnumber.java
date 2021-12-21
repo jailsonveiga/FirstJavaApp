@@ -1,4 +1,4 @@
-//Return the Next Number from the Integer Passed
+// Return the Next Number from the Integer Passed
 
 public class nextnumber {
     public static void main(String[] args) {
