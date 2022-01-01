@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d36ddd4f-54d0-4eb6-be6d-b76d30540235" name="Changes" comment="New Project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22TCdlphqW1tOhkw4wLWNYVoXbT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jmdav\OneDrive\Documents\CAREERDEVS\intermedia_curriculm\JaveExamplesApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Practice_01">
+    <configuration name="Practice_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_01" />
+      <module name="JaysExamples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_05" />
+      <module name="JaysExamples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_06" />
+      <module name="JaysExamples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project_01" />
+      <module name="JaysExamples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project_02" />
+      <module name="JaysExamples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practice_01" />
+        <item itemvalue="Application.Project_02" />
+        <item itemvalue="Application.Project_01" />
+        <item itemvalue="Application.Practice_06" />
+        <item itemvalue="Application.Practice_05" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36ddd4f-54d0-4eb6-be6d-b76d30540235" name="Changes" comment="" />
+      <created>1639852295629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639852295629</updated>
+    </task>
+    <task id="LOCAL-00001" summary="The 8 Primitive Types Java">
+      <created>1639854789429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639854789429</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Variable Declaration, Initialization">
+      <created>1639854887468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639854887468</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Arithmetic, Compound Operator">
+      <created>1639858254776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639858254776</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New Project Jay's Examples">
+      <created>1639858460585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639858460585</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New Project Jay's Examples">
+      <created>1639858498801</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639858498801</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New Project">
+      <created>1639858597808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639858597808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="GetFirstElement New Project">
+      <created>1639858630508</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639858630508</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New project Examples">
+      <created>1639862191029</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639862191029</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Practice_03 class">
+      <created>1639862347057</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639862347057</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Practice_04 class">
+      <created>1639862359819</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639862359819</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Relationship Operators">
+      <created>1639862400465</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639862400465</updated>
+    </task>
+    <task id="LOCAL-00012" summary="New Project Practice">
+      <created>1639866023476</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639866023476</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Logical Operators">
+      <created>1639866075178</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639866075178</updated>
+    </task>
+    <task id="LOCAL-00014" summary="New Project, Class">
+      <created>1639872450529</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639872450529</updated>
+    </task>
+    <task id="LOCAL-00015" summary="User Input">
+      <created>1639872491528</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639872491528</updated>
+    </task>
+    <task id="LOCAL-00016" summary="New Project, Class">
+      <created>1639874415955</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639874415955</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Project: Add any three numbers from the user input and then divided the sum by 3.0">
+      <created>1639874527711</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639874527711</updated>
+    </task>
+    <task id="LOCAL-00018" summary="New Project, class">
+      <created>1639883103898</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1639883103898</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Project Mad Libs Game">
+      <created>1639883146049</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1639883146049</updated>
+    </task>
+    <task id="LOCAL-00020" summary="New Project Class">
+      <created>1639884469127</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884469127</updated>
+    </task>
+    <task id="LOCAL-00021" summary="New Project_02 Class">
+      <created>1639884496800</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884496800</updated>
+    </task>
+    <task id="LOCAL-00022" summary="New Project_03 Class">
+      <created>1639884519310</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884519310</updated>
+    </task>
+    <task id="LOCAL-00023" summary="New Project_04 Class">
+      <created>1639884532644</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884532644</updated>
+    </task>
+    <task id="LOCAL-00024" summary="New Project_05 Class">
+      <created>1639884543523</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884543523</updated>
+    </task>
+    <task id="LOCAL-00025" summary="New Project_06 Class">
+      <created>1639884554990</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884554990</updated>
+    </task>
+    <task id="LOCAL-00026" summary="New Project_01 Class">
+      <created>1639884580546</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884580546</updated>
+    </task>
+    <task id="LOCAL-00027" summary="New Project_02 Class">
+      <created>1639884604374</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884604374</updated>
+    </task>
+    <task id="LOCAL-00028" summary="New Project .idea">
+      <created>1639884660971</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884660971</updated>
+    </task>
+    <task id="LOCAL-00029" summary="New Project .iml">
+      <created>1639884685909</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884685909</updated>
+    </task>
+    <task id="LOCAL-00030" summary="New Project misc.xml">
+      <created>1639884706314</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884706314</updated>
+    </task>
+    <task id="LOCAL-00031" summary="New Project modules.xml">
+      <created>1639884725237</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884725237</updated>
+    </task>
+    <task id="LOCAL-00032" summary="New Project uiDesigner.xml">
+      <created>1639884755508</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884755508</updated>
+    </task>
+    <task id="LOCAL-00033" summary="New Project vcs.xml">
+      <created>1639884775584</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884775584</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Variables, Data Types">
+      <created>1639884931018</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884931018</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Primitive, Reference Type">
+      <created>1639884990897</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1639884990897</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Arithmetic Operators">
+      <created>1639885024067</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1639885024067</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Relational Operators">
+      <created>1639885046524</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1639885046524</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Logical Operators">
+      <created>1639885063986</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1639885063986</updated>
+    </task>
+    <task id="LOCAL-00039" summary="User Input">
+      <created>1639885079306</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1639885079306</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Project: Get three input numbers from the user, add the numbers and them divided the Average Total by 3.0">
+      <created>1639885208123</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1639885208123</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Project: Mad Libs Game">
+      <created>1639885240342</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1639885240342</updated>
+    </task>
+    <task id="LOCAL-00042" summary="New Project">
+      <created>1639885756049</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1639885756049</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project: Add any three numbers from the user input and then divided the sum by 3.0" />
+    <MESSAGE value="New Project, class" />
+    <MESSAGE value="Project Mad Libs Game" />
+    <MESSAGE value="New Project Class" />
+    <MESSAGE value="New Project_03 Class" />
+    <MESSAGE value="New Project_04 Class" />
+    <MESSAGE value="New Project_05 Class" />
+    <MESSAGE value="New Project_06 Class" />
+    <MESSAGE value="New Project_01 Class" />
+    <MESSAGE value="New Project_02 Class" />
+    <MESSAGE value="New Project .idea" />
+    <MESSAGE value="New Project .iml" />
+    <MESSAGE value="New Project misc.xml" />
+    <MESSAGE value="New Project modules.xml" />
+    <MESSAGE value="New Project uiDesigner.xml" />
+    <MESSAGE value="New Project vcs.xml" />
+    <MESSAGE value="Variables, Data Types" />
+    <MESSAGE value="Primitive, Reference Type" />
+    <MESSAGE value="Arithmetic Operators" />
+    <MESSAGE value="Relational Operators" />
+    <MESSAGE value="Logical Operators" />
+    <MESSAGE value="User Input" />
+    <MESSAGE value="Project: Get three input numbers from the user, add the numbers and them divided the Average Total by 3.0" />
+    <MESSAGE value="Project: Mad Libs Game" />
+    <MESSAGE value="New Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Project" />
+  </component>
+</project>
